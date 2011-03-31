@@ -140,5 +140,5 @@ C. Special Notes
 
 IV. Change Log
 ==============
-v.1.0.0 - Mar-28-2011
+v.1.0.001 - Mar-28-2011
   - Initial public release.
