@@ -1,0 +1,1 @@
+ClickOnceReinstaller is the namespace of the API as well as the project folder.
